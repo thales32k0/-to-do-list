@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #96B6C5, #EEE0C9);
+}
+
+.container {
+    background-color: #F1F0E8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: -10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+    text-align: center;
+}
+
+button {
+    padding: 8px 15px; /* Reduzindo o tamanho do botão */
+    margin-right: 5px; /* Adicionando espaçamento entre os botões */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-top: 5px; /* Adicionar espaço vertical */
+    margin: 0 5px; /* Adicionar espaçamento horizontal entre os botões */
+}
+
+button:last-child {
+    margin-right: 0; /* Removendo o espaçamento do último botão */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
