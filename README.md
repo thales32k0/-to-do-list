@@ -1,6 +1,7 @@
 # 📑 To do list // Lista de Tarefas 📑
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Under%20Development-orange" alt="Static Badge">
+<img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
 A list of tasks you can approve or remove. // Uma lista de tarefas que você pode aprovar ou remover.
