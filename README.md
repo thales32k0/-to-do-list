@@ -6,13 +6,15 @@
 
 ---
 
+![Listra Preview](Lista.png)
+
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
 A list of tasks you can approve or remove. // Uma lista de tarefas que você pode aprovar ou remover.
 
-![Listra Preview](Lista.png)
+
 
 ---
 
@@ -21,6 +23,8 @@ A list of tasks you can approve or remove. // Uma lista de tarefas que você pod
 - `Functionalities 1` : Create day to day tasks (not stored) // Criar tarefas do dia a dia (não ficam amarzenadas)
 - `Functionalities 2` : Very simple interface // Interface bem simples.
 - `Functionalities 3` : For everyday life it is useful not to forget something. // Para o dia a dia é útil para não esquecer algo.
+
+---
 
 ### 🛠️ How to use? // Como usar? 🛠️
 - `Acess link // Acesse o link`: https://to-do-list-one-ruddy.vercel.app/
