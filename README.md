@@ -16,8 +16,6 @@ A list of tasks you can approve or remove. // Uma lista de tarefas que você pod
 
 ### 🔨 Funcionalidades // Functionalities 🔨
 
-![Listra Preview](Lista.png)
-
 - `Functionalities 1` : Create day to day tasks (not stored) // Criar tarefas do dia a dia (não ficam amarzenadas)
 - `Functionalities 2` : Very simple interface // Interface bem simples.
 - `Functionalities 3` : For everyday life it is useful not to forget something. // Para o dia a dia é útil para não esquecer algo.
