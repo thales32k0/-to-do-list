@@ -6,15 +6,13 @@
 
 ---
 
-![Listra Preview](Lista.png)
-
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
 A list of tasks you can approve or remove. // Uma lista de tarefas que você pode aprovar ou remover.
 
-
+![Listra Preview](Lista.png)
 
 ---
 
