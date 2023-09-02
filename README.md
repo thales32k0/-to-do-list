@@ -10,13 +10,13 @@
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
-![Listra Preview](Lista.png)
-
 A list of tasks you can approve or remove. // Uma lista de tarefas que você pode aprovar ou remover.
 
 ---
 
 ### 🔨 Funcionalidades // Functionalities 🔨
+
+![Listra Preview](Lista.png)
 
 - `Functionalities 1` : Create day to day tasks (not stored) // Criar tarefas do dia a dia (não ficam amarzenadas)
 - `Functionalities 2` : Very simple interface // Interface bem simples.
